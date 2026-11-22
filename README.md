@@ -21,7 +21,7 @@ Magpie 会把多个订阅软件的模型都递过来。这个插件**按软件�
 在 Magpie 搜索 **Tianshu**（插件 → 发现 → 非官方插件 · GitHub），或直接添加：
 
 ```text
-github:BeyondTokensGGG/magpie-agent-tianshu
+github:BeyondTokensGGG/magpie-agent-TianshuHarness
 ```
 
 也可以从本地源码安装：
